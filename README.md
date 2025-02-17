@@ -8,9 +8,11 @@ The Sticky Note backend is a RESTful API service that allows users to create, up
 
 <br>
 
-###Features
+### Features
 
-** User authentication and authorization**
+<br>
+
+**User authentication and authorization**
 
 **CRUD operations for sticky notes**
 
